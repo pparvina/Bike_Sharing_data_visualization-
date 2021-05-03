@@ -1,4 +1,4 @@
-Comminicate_data_findings
+# Comminicate_data_findings
 
 Goal: as a part of Udacity's Data Analyst Nanodegree Program, you need to convey findings from the dataset through transforming exploratory visualizations into polished, explanatory visualizations.
 
