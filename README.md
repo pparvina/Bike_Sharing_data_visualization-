@@ -6,7 +6,7 @@ This project has two parts that demonstrate the importance and value of data vis
 
 ## Data
 
-Bay Wheels, previously known as Ford GoBike (https://www.lyft.com/bikes/bay-wheels/system-data) is a regional public bike sharing system in San Francisco Bay Area, California. Bay Wheels is the first regional and large-scale bicycle sharing system deployed in California and on the West Coast of the United States with nearly 500,000 rides since the launch in 2017 and had about 10,000 annual subscribers as of January 2018. The dataset used for this exploratory analysis consists of Bay Wheels's trip data for public use for February 2020, which you can find here.
+Bay Wheels, previously known as Ford GoBike (https://www.lyft.com/bikes/bay-wheels) is a regional public bike sharing system in San Francisco Bay Area, California. Bay Wheels is the first regional and large-scale bicycle sharing system deployed in California and on the West Coast of the United States with nearly 500,000 rides since the launch in 2017 and had about 10,000 annual subscribers as of January 2018. The dataset used for this exploratory analysis consists of Bay Wheels's trip data for public use for February 2020, which you can find here. https://www.lyft.com/bikes/bay-wheels/system-data 
 
 Getting started
 
