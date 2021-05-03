@@ -21,5 +21,13 @@ Motivation
 After exploratory data analysis using visual tools in Python, and its libraries. 
 
 ## Key findings: 
+ 
+In this project I was curious to answer following question: 
+ 
+- When are most trips taken in terms of time of day, day of the week, or month of the year?
+- How long does the average trip take?
+- Does the above depend on if a user is a subscriber or customer?
+
+
 
 
